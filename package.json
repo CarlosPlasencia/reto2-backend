@@ -1,0 +1,24 @@
+{
+  "name": "reto2-back",
+  "version": "1.0.0",
+  "description": "Reto 2 backend - Hackspace Lima",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosPlasencia/reto2-backend.git"
+  },
+  "author": "Carlos Plasencia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosPlasencia/reto2-backend/issues"
+  },
+  "homepage": "https://github.com/CarlosPlasencia/reto2-backend#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "yargs": "^11.0.0"
+  }
+}
